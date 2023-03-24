@@ -1,0 +1,15 @@
+a29ca8f38472af91fdafa53fc0d6e2e2 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+7bedbea6a48b370bf4bf16de8a690d99 *R/componentplot.R
+79493b7125401cde2cc0c773925f6731 *R/cutoffplot.R
+64dfbd45acdf02281beb487bcac2d505 *R/data.R
+cbfe5f472ccb8f13a9b5ddfe0ea195bc *R/matrixcut.R
+79908b81633d8189852a51b6dd9fe846 *data/liliales.rdata
+0c1c446b02bc73246299628edb6a9481 *data/primates.rdata
+2df8077bd44e8ff0a52555ec4cd050d1 *data/xenarthra.rdata
+4c600118bf02653bccba2f3f6593e590 *man/componentplot.Rd
+811b016902a282ef974e9c57424adad7 *man/cutoffplot.Rd
+bcedc901c4627c89fbbafdbde552e8e0 *man/liliales.Rd
+3272d533d31cd445690788f5cf5243f0 *man/matrixcut.Rd
+a8ce74491b862849edd4a10f6f433d86 *man/primates.Rd
+524c462d7a7cd03270835b6117434f47 *man/xenarthra.Rd
